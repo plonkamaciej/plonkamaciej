@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**plonkamaciej/plonkamaciej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Maciej Płonka! 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student at Politechnika Śląska in Gliwice, Poland, with a passion for frontend development. I specialize in React, Next.js, and Astro, and I love creating beautiful and functional user interfaces.
+
+## Skills
+
+# FrontEnd:
+- Programming Languages: JavaScript
+- Technologies & Tools: React, Next.js, Astro, Tailwind CSS
+
+#Other:
+- C++
+- Java
+- Node.js
+
+## Contact Me
+
+- LinkedIn: [Maciej Płonka]([https://www.linkedin.com/in/maciejplonka](https://www.linkedin.com/in/maciej-p%C5%82onka-25a9b9299/))
+- Email: [zsot.mplonka@gmail.com](mailto:zsot.mplonka@gmail.com)
+
+Feel free to reach out! 😊
