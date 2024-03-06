@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hi there, I'm Maciej Płonka! 👋
+# Hi there, I'm Maciej! 👋
 
 ## About Me
 
@@ -12,7 +12,7 @@ I'm a student at Politechnika Śląska in Gliwice, Poland, with a passion for fr
 - Programming Languages: JavaScript
 - Technologies & Tools: React, Next.js, Astro, Tailwind CSS
 
-#Other:
+# Other:
 - C++
 - Java
 - Node.js
