@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a student at Politechnika Śląska in Gliwice, Poland, with a passion for frontend development. I specialize in React, Next.js, and Astro, and I love creating beautiful and functional user interfaces.
+I'm a student with a passion for frontend development. I specialize in React, Next.js, and Astro, and I love creating beautiful and functional user interfaces.
 
 ## Skills
 
@@ -16,6 +16,7 @@ I'm a student at Politechnika Śląska in Gliwice, Poland, with a passion for fr
 - C++
 - Java
 - Node.js
+- python
 
 ## Contact Me
 
