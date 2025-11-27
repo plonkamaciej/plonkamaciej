@@ -2,9 +2,6 @@
 
 # Hi there, I'm Maciej! 👋
 
-## About Me
-
-I'm a student with a passion for frontend development. I specialize in React, Next.js, and Astro, and I love creating beautiful and functional user interfaces.
 
 ## Skills
 
